@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Self Driven Car - Car Rental Service</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Self Driven Car</h1>
+        <p>Your Trusted Car Rental Service in Rohini, Delhi</p>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#gallery">Car Gallery</a></li>
+                <li><a href="#booking">Booking</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <h2>Welcome to Self Driven Car</h2>
+        <p>We offer self-driven and chauffeur-driven car rentals at the best rates. Book your ride today!</p>
+    </section>
+    
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Self-Driven Car Rentals</li>
+            <li>Chauffeur-Driven Rentals</li>
+            <li>Hourly, Daily, and Monthly Packages</li>
+        </ul>
+    </section>
+    
+    <section id="pricing">
+        <h2>Pricing</h2>
+        <p>Contact us for custom pricing based on your trip and car category.</p>
+    </section>
+    
+    <section id="gallery">
+        <h2>Car Gallery</h2>
+        <p>Check out our available fleet.</p>
+    </section>
+    
+    <section id="booking">
+        <h2>Book Your Ride</h2>
+        <p>Call us at <a href="tel:7678211391">7678211391</a> or message us on <a href="https://wa.me/7678211391">WhatsApp</a>.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Phone: <a href="tel:7678211391">7678211391</a></p>
+        <p>Instagram: <a href="https://instagram.com/selfdrivencar.rohini.delhi" target="_blank">@selfdrivencar.rohini.delhi</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Self Driven Car. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
